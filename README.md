@@ -21,5 +21,3 @@ through modern maps alone.
 Coordinates are being reviewed before
 the next release.
 
-Contributor information was removed
-from the public version.
